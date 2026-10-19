@@ -1,0 +1,4 @@
+<resources>
+    <integer name="grid_num_columns">4</integer>
+    <integer name="grid_num_rows">6</integer>
+</resources>
